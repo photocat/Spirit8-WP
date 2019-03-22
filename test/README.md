@@ -1,4 +1,4 @@
-_s
+Custom theme for Wordpress
 ===
 
 Hi. I'm a custom theme for Wordpress. I'm here for show you how easy you can create custom theme for your site.
